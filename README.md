@@ -3,6 +3,7 @@
 You have to get an Apify API Token and a Google Cloud Setup.
 This script uses this Apify crawler: https://console.apify.com/actors/nFJndFXA5zjCTuudP/runs
 Obtain the relevant API keys and put them into a .env file to run this script.
+Read up on how to set up Vertex AI Gemini API here: https://cloud.google.com/vertex-ai/generative-ai/docs/start/quickstarts/quickstart-multimodal
 
 To run this project, you'll need to set up some environment variables. Here's how:
 
